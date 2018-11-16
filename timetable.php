@@ -38,7 +38,7 @@
                               <option value="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">human Resources</font></font></option>
                             </select>
 
-
+<br>
 <select name="sem" id="sem">
                               <option value=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Select Class -</font></font></option>
                               <option value="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manufacturing</font></font></option>
@@ -46,8 +46,11 @@
                               <option value="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Administration</font></font></option>
                               <option value="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">human Resources</font></font></option>
                             </select>
-
+<br>
+<input type="submit" class="button special" name="submit" value="Go to time table">
             </section>
+
+
 
         </div>
 
